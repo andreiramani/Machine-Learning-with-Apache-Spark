@@ -1,7 +1,7 @@
 # <a href=https://www.coursera.org/learn/machine-learning-with-apache-spark>Machine Learning with Apache Spark</a>
-Coursera IBM Data Engineering (Course 12 from 13)
+## Course 12 from 13 (Part of IBM Data Engineering Professional Certificate by Coursera)
 <p></p>
-<p>Collection of all hands-on and final project for course 12 - "Machine Learning with Apache Spark". Since Skills Network Lab upgraded, the experience is flawless. Unfortunately, maybe there is some misclassification correct answer on 'Final Project Evaluation' because I can get 100% correct answer on evaluation.</p>
+<p>Collection of all hands-on and final project for course 12 - "Machine Learning with Apache Spark". Since Skills Network Lab upgraded, the virtual lab experience is flawless. Unfortunately, maybe there is some misclassification correct answer on 'Final Project Evaluation' because I can get 100% correct answer on evaluation.</p>
 <p>Probable misclassification correct answer are:
 <ul>What is the coefficient for Frequency?</ul>
 <ul>What is the coefficient for AngleOfAttack?</ul>
